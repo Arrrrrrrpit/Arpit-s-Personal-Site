@@ -22,8 +22,11 @@ h2 {
 
 h3 {
   color: #11999E;
-  font-size: 1rem;
-  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 
